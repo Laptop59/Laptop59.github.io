@@ -1,4 +1,22 @@
 html {
 	height: 100%;
 	font-family: Segoe UI !important;
+    color: white;
+    background-color: #1f1f1f;
+}
+
+a:link {
+    color: chartreuse;
+}
+
+a:visited {
+    color: yellow;
+}
+
+a:hover {
+    color: yellowgreen;
+}
+
+a {
+    text-decoration: none;
 }
