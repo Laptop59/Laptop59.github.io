@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdatabin=self.webpackChunkdatabin||[]).push([[309],{6309:function(e,a,c){e.exports=c.p+"static/media/FileIcon.86b8eb497920c0f871cd.svg"}}]);

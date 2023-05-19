@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdatabin=self.webpackChunkdatabin||[]).push([[578],{578:function(e,a,s){e.exports=s.p+"static/media/PackageIcon.8e5249be1ed525ebd511.svg"}}]);
